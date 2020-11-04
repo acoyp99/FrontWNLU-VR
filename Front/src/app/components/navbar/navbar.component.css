@@ -1,0 +1,27 @@
+.navs {
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+.blues {
+    background: #0434a4;
+}
+
+.navbar {
+    background: rgba(255, 255, 255);
+    z-index: 1;
+}
+
+.navbar-brand {
+    display: inline-block;
+    width: 150px;
+    height: 70px;
+    /*width: 150px;*/
+    background: url(../../../assets/img/Sura4.jpg);
+    margin-left: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-indent: -999999px;
+    align-content: stretch;
+}
